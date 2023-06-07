@@ -10,6 +10,7 @@
     "bootstrap": "^5.2.3",
     "detect.js": "^2.2.3",
     "firebase": "^9.19.1",
+    "firebase-functions": "^4.4.0",
     "focus-formik-error": "^1.0.7",
     "formik": "^2.2.7",
     "react": "^18.2.0",
